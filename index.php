@@ -1,4 +1,3 @@
-<?php
-echo " Hello Saorin";
 
-?>
+<?php include_once 'login.php' ?>
+
